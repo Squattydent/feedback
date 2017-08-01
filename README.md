@@ -17,7 +17,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/squattydent/feedback/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed)
+Check out the [Closed Issues](https://github.com/kidigo/feedback/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
